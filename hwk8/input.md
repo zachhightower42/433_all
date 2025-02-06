@@ -1,2 +1,0 @@
-Design a dynamic programming algorithm for the following problem. Find the maximum total sale price that can be obtained by cutting a rod of n units long into integer-length pieces if the sale price of a piece
-i units long is $$p_{i}~~for~~i = 1, 2, . . . , n$$ What are the time and space efficiencies of your algorithm?
